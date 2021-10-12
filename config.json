@@ -1,0 +1,18 @@
+{
+    "extensions_details":[
+       {
+          "name":"doc",
+          "extensions":[
+             ".txt",
+             ".doc",
+             ".docx"
+          ]
+       },
+       {
+          "name":"py",
+          "extensions":[
+             ".py,.ipynb"
+          ]
+       }
+    ]
+ }
